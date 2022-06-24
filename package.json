@@ -1,0 +1,25 @@
+{
+  "name": "media-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamurjon7191/Media-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamurjon7191/Media-Bot/issues"
+  },
+  "homepage": "https://github.com/mamurjon7191/Media-Bot#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nodemon": "^2.0.18",
+    "telegraf": "3.32"
+  }
+}
